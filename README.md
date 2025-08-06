@@ -19,3 +19,8 @@ This project analyzes product performance from a small e-commerce dataset using 
 ## ✍️ Author
 Saja Yasser Mohamed — Junior Data Analyst in training.
 
+## 📈 Time-Series Insight
+
+Revenue trends over time showed a spiky pattern, with peak sales between 2013 and 2014.  
+A noticeable drop followed, suggesting the need for production timing strategies based on product life cycles.
+
